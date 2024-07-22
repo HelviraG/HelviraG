@@ -1,9 +1,6 @@
 <!--
 Header
 -->
- <p align="right">
-      <img alt="Custom badge" src="https://visitor-badge.glitch.me/badge?page_id=HelviraG.HelviraG">
- </p>
  <p align="center">
     <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="200px">
  </p>
@@ -115,15 +112,6 @@ Third Section
 
 Here are some statistics to have an overview of what I have been doing recently on GitHub. Note that I do not always push what I do. 
 <br />
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelviraG&show_icons=true&count_private=true&include_all_commits=true&border_radius=10px&bg_color=FDFEFF&border_color=a55eea&title_color=a55eea&icon_color=a55eea&custom_title=My GitHub Stats" />
-</p>
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelviraG&count_private=true&border_radius=10px&show_icons=true&card_width=455px&bg_color=FDEFF&border_color=1e90FF&title_color=1e90FF&text_color=1e272e&custom_title=Languages I use the most" />
-</p>
 <br />
 <!--
 Last Section
