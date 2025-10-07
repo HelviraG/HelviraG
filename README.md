@@ -20,22 +20,25 @@ First Section
   <a href="https://discord.com" alt="Discord Link">
     <img alt="Custom badge" src="https://img.shields.io/static/v1?message=Hell'sis%230751&label=&logo=discord&logoColor=FFFFFF&style=for-the-badge&color=ffa801">
   </a>
+ <!--
   <a href="mailto:helvira.dev@gmail.com" alt="Email Link">
     <img alt="Custom badge" src="https://img.shields.io/static/v1?message=Contact Me&label=&logo=gmail&logoColor=FFFFFF&style=for-the-badge&color=f53b57">
   </a>
+ -->
 </p>
 <br />
 
 ```
 
-I am a web developer located in Paris Area, France.
+I am a web developer located in the Paris Area, France.
 I consider myself a detective 🧐 because coding is like resolving a crime when you have to debug. 
-Even if sometimes, you committed it 😅.
+Even if sometimes you committed it 😅.
 You collect the pieces of evidence and do your best to go through the investigations.
 
 I also think I am a magician ✨ when turning an idea on paper into something functional and interactive, 
 like this GitHub profile.
-I enjoy exploring both front-end and back-end possibilities and going beyond my comfort zone for the sake of a project. 
+I enjoy exploring both front-end and back-end possibilities and going beyond my comfort zone
+for the sake of a project. 
 
 So, I am a detective/magician navigating GitHub 😁.
 
@@ -46,7 +49,7 @@ So, I am a detective/magician navigating GitHub 😁.
 
 - 👩‍💻 I’m currently working on a **bot** for Discord and an **app reactJS-based**
 - 📚 I’m currently learning some **clean code** practices
-- 👯 I’m looking to collaborate on projects I think interesting
+- 👯 I’m looking to collaborate on projects that I think are interesting
 - 💬 Ask me about **anything**. 
 - 📫 How to reach me: All the **details** are above 👆
 - 😄 Pronouns: **Her/She**
